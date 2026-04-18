@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
+
+.center-image {
+  display: block;
+  margin: auto;
+}
